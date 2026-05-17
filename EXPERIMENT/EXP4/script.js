@@ -81,5 +81,5 @@ function calculateResult() {
             </span>
         </div>
     `;
-    resultBox.classList.remove("hidden");
+    resultBox.classList.remove("d-none");
 }
